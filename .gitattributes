@@ -1,1 +1,1 @@
-echo "Test/bbbb.txt merge=ours" >> .gitattributes
+Test/bbbb.txt merge=ours
